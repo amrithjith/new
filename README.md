@@ -22,7 +22,7 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 
 ## :sparkles: Example
 
-![Example: Java Calculator](Screenshots/screenshot.png)
+![Example: Java Calculator](Screenshots/screenshotbbbb.png)
 
 ## You might also like :monocle_face:
 
